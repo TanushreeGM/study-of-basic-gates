@@ -1,4 +1,4 @@
-### study-of-basic-gates
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a2678fc0-6f5e-486a-a732-aca0a507bc88" /><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fd1cf453-e9e8-44e8-b800-24781d767086" />### study-of-basic-gates
 
 **AIM:** 
 
@@ -65,15 +65,20 @@ Y= A⊕B
 **PROGRAM**
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
+<img width="1920" height="1080" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/4ae2d989-27aa-4e66-bb40-f21c8342efd0" />
 
- Developed by: RegisterNumber: 
+ Developed by: Tanushree G RegisterNumber: 25012099
  
 **Logic symbol & Truthtable**
+<img width="955" height="777" alt="image" src="https://github.com/user-attachments/assets/31b47c99-b5d0-4d70-80b3-c20d7fafccc3" />
 
 **RTL realization Output:** 
+<img width="1920" height="1080" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/8363e8e6-4827-4333-915a-45206e63bd45" />
 
 **RTL**
+<img width="1920" height="1080" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/60d06edd-0c45-4976-817a-6fd59d0f75a8" />
+
 
 **Result:**
-
+The experiment is successful
 
